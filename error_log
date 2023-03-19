@@ -1,0 +1,1 @@
+[28-Dec-2022 21:06:02 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\SalesController::index() in /home1/coveinte/public_html/stocky_for_woo/app/Http/Controllers/SalesController.php on line 209
